@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ismay1l
-- 👀 I’m interested in Java Back-end development
-- 🌱 I’m currently learning .Spring Framework
-- 💞️ I’m looking to collaborate on some simple tasks on Java 
+- 👀 I’m interested in iOS development
+- 🌱 I’m currently learning Swift, Xcode
+- 💞️ I’m looking to collaborate on some simple tasks on iOS development 
 - 📫 You can reach me by email address
 
 <!---
